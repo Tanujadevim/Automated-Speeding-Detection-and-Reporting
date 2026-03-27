@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+pyvenv.cfg
+
+# Output folders (auto-generated when running)
+output/
+result-pratice/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
